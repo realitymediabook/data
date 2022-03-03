@@ -1,0 +1,401 @@
+{
+    "nodes": [{
+            "id": "1. Definitions of presence",
+            "group": 2
+        },
+        {
+            "id": "Transportation",
+            "name": "VR takes you to another place (world)",
+            "group": 3
+        },
+        {
+            "id": "Immersion",
+            "name": "VR surrounded you with another world",
+            "group": 4
+        },
+        {
+            "id": "Realism",
+            "name": "VR worlds seem real",
+            "group": 5
+        },
+        {
+            "id": "Social presence",
+            "name": "VR puts you in the presence of others",
+            "group": 6
+        },
+        {
+            "id": "Absence of mediation",
+            "name": "VR as the medium that achieves the real",
+            "group": 7
+        },
+        {
+            "id": "Virtual trip to Mars",
+            "name": "VR takes you elsewhere in this world",
+            "group": 3
+        },
+        {
+            "id": "Gameworlds",
+            "name": "VR takes you to imaginary worlds",
+            "group": 3
+        },
+        {
+            "id": "Van Gogh",
+            "name": "Immersion in a painter's visual world",
+            "group": 4
+        },
+        {
+            "id": "Media history",
+            "name": "striving for 'the real'",
+            "group": 5
+        },
+        {
+            "id": "Meta",
+            "name": "VR as social media",
+            "group": 6
+        },
+        {
+            "id": "Presence as absence",
+            "name": "...but no medium can achieve perfect presence",
+            "group": 7
+        },
+        {
+            "id": "2. Measuring presence",
+            "group": 2
+        },
+        {
+            "id": "Empathy",
+            "name": "as measure of presence",
+            "group": 3
+        },
+        {
+            "id": "Clouds over Sidra",
+            "name": "360 video shown at Davos",
+            "group": 3
+        },
+        {
+            "id": "Chris Milk",
+            "name": "videographer",
+            "group": 3
+        },
+        {
+            "id": "'VR as ultimate medium'",
+            "name": "Or the absence of mediation",
+            "group": 3
+        },
+        {
+            "id": "Nonny de la Peña",
+            "name": "Nonny de la Peña",
+            "group": 3
+        },
+        {
+            "id": "VR journalism",
+            "name": "VR journalism",
+            "group": 3
+        },
+        {
+            "id": "Pit Experiment",
+            "name": "pioneer VR experiment",
+            "group": 4
+        },
+        {
+            "id": "Fear (of heights)",
+            "name": "as a measure of presence",
+            "group": 4
+        },
+        {
+            "id": "Cybersickness",
+            "name": "as a measure of presence",
+            "group": 5
+        },
+        {
+            "id": "Nausea",
+            "name": "Nausea",
+            "group": 5
+        },
+        {
+            "id": "Loss of presence",
+            "name": "ironically cybersickness can destory presence",
+            "group": 5
+        },
+        {
+            "id": "3. Aura, Space and Place",
+            "group": 2
+        },
+        {
+            "id": "Aura",
+            "name": "a special kind of presence",
+            "group": 3
+        },
+        {
+            "id": "Walter Benjamin",
+            "name": "defined aura for 'reproductive media'",
+            "group": 3
+        },
+        {
+            "id": "Acropolis",
+            "name": "historic site in Athens",
+            "group": 3
+        },
+        {
+            "id": "Terracotta warriors",
+            "name": "tomb of first Qi Dinasty emperor",
+            "group": 3
+        },
+        {
+            "id": "Casa Battló",
+            "name": "Gaudi building in Barcelona",
+            "group": 3
+        },
+        {
+            "id": "Space and Place",
+            "name": "dichotomy for classifing XR experiences",
+            "group": 4
+        },
+        {
+            "id": "Yi-Fu Tuan",
+            "name": "geographer identified distinction in 1970s",
+            "group": 4
+        },
+        {
+            "id": "Place",
+            "name": "(Special) places have aura",
+            "group": 4
+        },
+        {
+            "id": "Cultural Heritage",
+            "name": "e.g. Acropolis, Terracotta warriors, Casa Battló",
+            "group": 4
+        },
+        {
+            "id": "Virtual Museums",
+            "name": "weak aura",
+            "group": 4
+        },       
+        {
+            "id": "Space",
+            "name": "",
+            "group": 4
+        },
+        {
+            "id": "VR gameworlds",
+            "name": "virtual world lacking aura",
+            "group": 4
+        },
+        {
+            "id": "VR conferencing",
+            "name": "space outside of physical world",
+            "group": 4
+        },
+        {
+            "id": "Google Maps Live View",
+            "name": "AR app lacking aura",
+            "group": 4
+        },
+        {
+            "id": "AR tabletop games",
+            "name": "play anywhere, lacking aura",
+            "group": 4
+        }
+    ],
+    "links": [{
+            "source": "1. Definitions of presence",
+            "target": "2. Measuring presence",
+            "val": 1
+        },
+        {
+            "source": "1. Definitions of presence",
+            "target": "3. Aura, Space and Place",
+            "val": 1
+        },
+        {
+            "source": "2. Measuring presence",
+            "target": "3. Aura, Space and Place",
+            "val": 1
+        },
+        {
+            "source": "1. Definitions of presence",
+            "target": "Transportation",
+            "val": 1
+        },
+        {
+            "source": "1. Definitions of presence",
+            "target": "Immersion",
+            "val": 1
+        },
+        {
+            "source": "1. Definitions of presence",
+            "target": "Realism",
+            "val": 1
+        },
+        {
+            "source": "1. Definitions of presence",
+            "target": "Social presence",
+            "val": 1
+        },
+        {
+            "source": "1. Definitions of presence",
+            "target": "Absence of mediation",
+            "val": 1
+        },
+        {
+            "source": "Transportation",
+            "target": "Virtual trip to Mars",
+            "val": 1
+        },
+        {
+            "source": "Transportation",
+            "target": "Gameworlds",
+            "val": 1
+        },
+        {
+            "source": "Immersion",
+            "target": "Van Gogh",
+            "val": 1
+        },
+        {
+            "source": "Realism",
+            "target": "Media history",
+            "val": 1
+        },
+        {
+            "source": "Social presence",
+            "target": "Meta",
+            "val": 1
+        },
+        {
+            "source": "Absence of mediation",
+            "target": "Presence as absence",
+            "val": 1
+        },
+        {
+            "source": "2. Measuring presence",
+            "target": "Empathy",
+            "val": 1
+        },
+        {
+            "source": "2. Measuring presence",
+            "target": "Cybersickness",
+            "val": 1
+        },
+        {
+            "source": "2. Measuring presence",
+            "target": "Fear (of heights)",
+            "val": 1
+        },
+        {
+            "source": "Empathy",
+            "target": "Clouds over Sidra",
+            "val": 1
+        },
+        {
+            "source": "Empathy",
+            "target": "VR journalism",
+            "val": 1
+        },
+        {
+            "source": "Clouds over Sidra",
+            "target": "Chris Milk",
+            "val": 10
+        },
+        {
+            "source": "Chris Milk",
+            "target": "'VR as ultimate medium'",
+            "val": 1
+        },
+        {
+            "source": "Nonny de la Peña",
+            "target": "VR journalism",
+            "val": 1
+        },
+        {
+            "source": "Pit Experiment",
+            "target": "Fear (of heights)",
+            "val": 1
+        },
+        {
+            "source": "Cybersickness",
+            "target": "Nausea",
+            "val": 1
+        },
+        {
+            "source": "Cybersickness",
+            "target": "Loss of presence",
+            "val": 1
+        },
+        {
+            "source": "3. Aura, Space and Place",
+            "target": "Aura",
+            "val": 1
+        },
+        {
+            "source": "3. Aura, Space and Place",
+            "target": "Space and Place",
+            "val": 1
+        },
+        {
+            "source": "Aura",
+            "target": "Walter Benjamin",
+            "val": 1
+        },        
+        {
+            "source": "Aura",
+            "target": "Acropolis",
+            "val": 1
+        },
+        {
+            "source": "Aura",
+            "target": "Terracotta warriors",
+            "val": 1
+        },
+        {
+            "source": "Aura",
+            "target": "Casa Battló",
+            "val": 1
+        },
+        {
+            "source": "Space and Place",
+            "target": "Yi-Fu Tuan",
+            "val": 10
+        },
+        {
+            "source": "Space and Place",
+            "target": "Place",
+            "val": 1
+        },
+        {
+            "source": "Space and Place",
+            "target": "Space",
+            "val": 1
+        },
+        {
+            "source": "Place",
+            "target": "Cultural Heritage",
+            "val": 1
+        },
+        {
+            "source": "Place",
+            "target": "Virtual Museums",
+            "val": 1
+        },
+        {
+            "source": "Space",
+            "target": "VR gameworlds",
+            "val": 1
+        },
+        {
+            "source": "Space",
+            "target": "VR conferencing",
+            "val": 1
+        },
+        {
+            "source": "Space",
+            "target": "Google Maps Live View",
+            "val": 1
+        },
+        {
+            "source": "Space",
+            "target": "AR tabletop games",
+            "val": 1
+        }
+    ]
+}
