@@ -1,0 +1,38 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "name": "REALITY MEDIA",
+            "group": 1
+        },
+        {
+            "id": 1,
+            "name": "What are Reality Media?",
+            "group": 1
+        },
+        {
+            "id": 2,
+            "name": "La Ciotat effect",
+            "group": 2
+        },
+        {
+            "id": 3,
+            "name": "Remediation",
+            "group": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 3
+        }
+    ]
+}
