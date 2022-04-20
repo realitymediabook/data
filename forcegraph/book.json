@@ -4,14 +4,14 @@
             "id": 0,
             "name": "REALITY MEDIA",
             "group": 1,
-            "val": 1.5,
+            "val": 2,
             "level": 3
         },
         {
             "id": 1,
             "name": "What are Reality Media?",
             "group": 1,
-            "val": 1.25,
+            "val": 1.05,
             "level": 2
         },
         {
@@ -30,7 +30,7 @@
             "id": 4,
             "name": "What are AR & VR?",
             "group": 1,
-            "val": 1.25,
+            "val": 1.05,
             "level": 2
         },
         {
@@ -55,7 +55,7 @@
             "id": 8,
             "name": "History of Reality Media",
             "group": 1,
-            "val": 1.25,
+            "val": 1.05,
             "level": 2
         },
         {
@@ -98,7 +98,7 @@
             "id": 15,
             "name": "3D Graphics & Sensing & Tracking",
             "group": 1,
-            "val": 1.25,
+            "val": 1.05,
             "level": 2
         },
         {
@@ -141,7 +141,7 @@
             "id": 22,
             "name": "Presence & Aura",
             "group": 1,
-            "val": 1.25,
+            "val": 1.05,
             "level": 2
         },
         {
@@ -184,7 +184,7 @@
             "id": 29,
             "name": "Genres",
             "group": 1,
-            "val": 1.25,
+            "val": 1.05,
             "level": 2
         },
         {
@@ -257,7 +257,7 @@
             "id": 41,
             "name": "Privacy & Public Space",
             "group": 1,
-            "val": 1.25,
+            "val": 1.05,
             "level": 2
         },
         {
@@ -282,7 +282,7 @@
             "id": 45,
             "name": "The Future of AR & VR",
             "group": 1,
-            "val": 1.25,
+            "val": 1.05,
             "level": 2
         },
         {
