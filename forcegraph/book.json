@@ -5,7 +5,7 @@
             "name": "REALITY MEDIA",
             "group": 1,
             "val": 1.5,
-            "level": 1
+            "level": 3
         },
         {
             "id": 1,
@@ -18,13 +18,13 @@
             "id": 2,
             "name": "La Ciotat effect",
             "group": 2,
-            "level": 3
+            "level": 1
         },
         {
             "id": 3,
             "name": "Remediation",
             "group": 2,
-            "level": 3
+            "level": 1
         },
         {
             "id": 4,
@@ -37,19 +37,19 @@
             "id": 5,
             "name": "The origins of AR & VR",
             "group": 3,
-            "level": 3
+            "level": 1
         },
         {
             "id": 6,
             "name": "The virtuality continuum",
             "group": 3,
-            "level": 3
+            "level": 1
         },
         {
             "id": 7,
             "name": "XR & the web",
             "group": 3,
-            "level": 3
+            "level": 1
         },
         {
             "id": 8,
@@ -62,37 +62,37 @@
             "id": 9,
             "name": "Renaissance painting",
             "group": 4,
-            "level": 3
+            "level": 1
         },
         {
             "id": 10,
             "name": "Panorama",
             "group": 4,
-            "level": 3
+            "level": 1
         },
         {
             "id": 11,
             "name": "Photography",
             "group": 4,
-            "level": 3
+            "level": 1
         },
         {
             "id": 12,
             "name": "Film",
             "group": 4,
-            "level": 3
+            "level": 1
         },
         {
             "id": 13,
             "name": "Television",
             "group": 4,
-            "level": 3
+            "level": 1
         },
         {
             "id": 14,
             "name": "360 video",
             "group": 4,
-            "level": 3
+            "level": 1
         },
         {
             "id": 15,
@@ -105,37 +105,37 @@
             "id": 16,
             "name": "Photorealism",
             "group": 5,
-            "level": 3
+            "level": 1
         },
         {
             "id": 17,
             "name": "The uncanny valley",
             "group": 5,
-            "level": 3
+            "level": 1
         },
         {
             "id": 18,
             "name": "Uncanny doubling",
             "group": 5,
-            "level": 3
+            "level": 1
         },
         {
             "id": 19,
             "name": "Tracking the user in 6 DOF",
             "group": 5,
-            "level": 3
+            "level": 1
         },
         {
             "id": 20,
             "name": "Sensing the world",
             "group": 5,
-            "level": 3
+            "level": 1
         },
         {
             "id": 21,
             "name": "POV",
             "group": 5,
-            "level": 3
+            "level": 1
         },
         {
             "id": 22,
@@ -148,37 +148,37 @@
             "id": 23,
             "name": "Definitions of presence",
             "group": 6,
-            "level": 3
+            "level": 1
         },
         {
             "id": 24,
             "name": "Absence of mediation",
             "group": 6,
-            "level": 3
+            "level": 1
         },
         {
             "id": 25,
             "name": "Measures of presence",
             "group": 6,
-            "level": 3
+            "level": 1
         },
         {
             "id": 26,
             "name": "Cybersickness",
             "group": 6,
-            "level": 3
+            "level": 1
         },
         {
             "id": 27,
             "name": "Aura & cultural heritage",
             "group": 6,
-            "level": 3
+            "level": 1
         },
         {
             "id": 28,
             "name": "Space & place",
             "group": 6,
-            "level": 3
+            "level": 1
         },
         {
             "id": 29,
@@ -191,67 +191,67 @@
             "id": 30,
             "name": "Video games",
             "group": 7,
-            "level": 3
+            "level": 1
         },
         {
             "id": 31,
             "name": "Pornography",
             "group": 7,
-            "level": 3
+            "level": 1
         },
         {
             "id": 32,
             "name": "AR, VR & MR Art",
             "group": 7,
-            "level": 3
+            "level": 1
         },
         {
             "id": 33,
             "name": "Documentary & journalism",
             "group": 7,
-            "level": 3
+            "level": 1
         },
         {
             "id": 34,
             "name": "Cultural heritage",
             "group": 7,
-            "level": 3
+            "level": 1
         },
         {
             "id": 35,
             "name": "Healthcare & medical applications",
             "group": 7,
-            "level": 3
+            "level": 1
         },
         {
             "id": 36,
             "name": "Architecture & design",
             "group": 7,
-            "level": 3
+            "level": 1
         },
         {
             "id": 37,
             "name": "Product display & retail",
             "group": 7,
-            "level": 3
+            "level": 1
         },
         {
             "id": 38,
             "name": "Training & education",
             "group": 7,
-            "level": 3
+            "level": 1
         },
         {
             "id": 39,
             "name": "Navigation",
             "group": 7,
-            "level": 3
+            "level": 1
         },
         {
             "id": 40,
             "name": "Social spaces",
             "group": 7,
-            "level": 3
+            "level": 1
         },
         {
             "id": 41,
@@ -264,19 +264,19 @@
             "id": 42,
             "name": "Surveillance media",
             "group": 8,
-            "level": 3
+            "level": 1
         },
         {
             "id": 43,
             "name": "Datafication of space",
             "group": 8,
-            "level": 3
+            "level": 1
         },
         {
             "id": 44,
             "name": "Virtual trespassing",
             "group": 8,
-            "level": 3
+            "level": 1
         },
         {
             "id": 45,
@@ -289,37 +289,37 @@
             "id": 46,
             "name": "The myth of total AR",
             "group": 9,
-            "level": 3
+            "level": 1
         },
         {
             "id": 47,
             "name": "Mirror worlds & AR cloud(s)",
             "group": 9,
-            "level": 3
+            "level": 1
         },
         {
             "id": 48,
             "name": "The myth of total VR",
             "group": 9,
-            "level": 3
+            "level": 1
         },
         {
             "id": 49,
             "name": "The metaverse & social media",
             "group": 9,
-            "level": 3
+            "level": 1
         },
         {
             "id": 50,
             "name": "The uncanny metaverse",
             "group": 9,
-            "level": 3
+            "level": 1
         },
         {
             "id": 51,
             "name": "The possible, plausible & probable",
             "group": 9,
-            "level": 3
+            "level": 1
         }
     ],
     "links": [
