@@ -1,0 +1,117 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "group": 2,
+            "name": "Definitions of presence",
+            "val": 0
+        },
+        {
+            "id": 1,
+            "name": "Transportation",
+            "group": 3
+        },
+        {
+            "id": 2,
+            "name": "Immersion",
+            "group": 4
+        },
+        {
+            "id": 3,
+            "name": "Realism",
+            "group": 5
+        },
+        {
+            "id": 4,
+            "name": "Social presence",
+            "group": 6
+        },
+        {
+            "id": 5,
+            "name": "Absence of mediation",
+            "group": 7
+        },
+        {
+            "id": 6,
+            "name": "Virtual trip to Mars",
+            "group": 3,
+            "val": 2
+        },
+        {
+            "id": 7,
+            "name": "Gameworlds",
+            "group": 3,
+            "val": 3
+        },
+        {
+            "id": 8,
+            "name": "Van Gogh",
+            "group": 4,
+            "val": 2
+        },
+        {
+            "id": 9,
+            "name": "Media history",
+            "group": 5,
+            "val": 2
+        },
+        {
+            "id": 10,
+            "name": "Meta",
+            "group": 6,
+            "val": 2
+        },
+        {
+            "id": 11,
+            "name": "Presence as absence",
+            "group": 7,
+            "val": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 2,
+            "target": 8
+        },
+        {
+            "source": 3,
+            "target": 9
+        },
+        {
+            "source": 4,
+            "target": 10
+        },
+        {
+            "source": 5,
+            "target": 11
+        }
+    ]
+}

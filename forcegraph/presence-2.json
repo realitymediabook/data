@@ -1,0 +1,133 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "group": 2,
+            "name": "Measuring presence",
+            "val": 0
+        },
+        {
+            "id": 1,
+            "name": "Empathy",
+            "group": 3,
+            "val": 1
+        },
+        {
+            "id": 2,
+            "name": "Clouds over Sidra",
+            "group": 3,
+            "val": 2
+        },
+        {
+            "id": 3,
+            "name": "Chris Milk",
+            "group": 3,
+            "val": 2
+        },
+        {
+            "id": 4,
+            "name": "'VR as ultimate medium'",
+            "group": 3,
+            "val": 2
+        },
+        {
+            "id": 5,
+            "name": "Nonny de la Peña",
+            "group": 3,
+            "val": 2
+        },
+        {
+            "id": 6,
+            "name": "VR journalism",
+            "group": 3,
+            "val": 2
+        },
+        {
+            "id": 7,
+            "name": "Pit Experiment",
+            "group": 4,
+            "val": 3
+        },
+        {
+            "id": 8,
+            "name": "Fear (of heights)",
+            "group": 4,
+            "val": 1
+        },
+        {
+            "id": 9,
+            "name": "Cybersickness",
+            "group": 5,
+            "val": 1
+        },
+        {
+            "id": 10,
+            "name": "Nausea",
+            "group": 5,
+            "val": 2
+        },
+        {
+            "id": 11,
+            "name": "Loss of presence",
+            "group": 5,
+            "val": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "val": 1
+        },
+        {
+            "source": 0,
+            "target": 9,
+            "val": 1
+        },
+        {
+            "source": 0,
+            "target": 8,
+            "val": 1
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "val": 1
+        },
+        {
+            "source": 1,
+            "target": 6,
+            "val": 1
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "val": 10
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "val": 1
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "val": 1
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "val": 1
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "val": 1
+        },
+        {
+            "source": 9,
+            "target": 11,
+            "val": 1
+        }
+    ]
+}
