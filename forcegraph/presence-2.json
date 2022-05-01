@@ -4,7 +4,7 @@
             "id": 0,
             "group": 2,
             "name": "Measuring presence",
-            "val": 0
+            "val":2
         },
         {
             "id": 1,
@@ -16,37 +16,37 @@
             "id": 2,
             "name": "Clouds over Sidra",
             "group": 3,
-            "val": 2
+            "val":1
         },
         {
             "id": 3,
             "name": "Chris Milk",
             "group": 3,
-            "val": 2
+            "val": 1
         },
         {
             "id": 4,
             "name": "'VR as ultimate medium'",
             "group": 3,
-            "val": 2
+            "val": 1
         },
         {
             "id": 5,
             "name": "Nonny de la Peña",
             "group": 3,
-            "val": 2
+            "val": 1
         },
         {
             "id": 6,
             "name": "VR journalism",
             "group": 3,
-            "val": 2
+            "val": 1
         },
         {
             "id": 7,
             "name": "Pit Experiment",
             "group": 4,
-            "val": 3
+            "val": 1
         },
         {
             "id": 8,
@@ -64,13 +64,13 @@
             "id": 10,
             "name": "Nausea",
             "group": 5,
-            "val": 2
+            "val": 1
         },
         {
             "id": 11,
             "name": "Loss of presence",
             "group": 5,
-            "val": 2
+            "val": 1
         }
     ],
     "links": [
