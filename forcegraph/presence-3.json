@@ -4,97 +4,97 @@
             "id": 0,
             "group": 2,
             "name": "3. Aura, Space and Place",
-            "val": 0
+            "val": 2
         },
         {
             "id": 1,
             "name": "Aura",
             "group": 3,
-            "val": 0
+            "val": 1
         },
         {
             "id": 2,
             "name": "Walter Benjamin",
             "group": 3,
-            "val": 0
+            "val": 1
         },
         {
             "id": 3,
             "name": "Acropolis",
             "group": 3,
-            "val": 0
+            "val": 1
         },
         {
             "id": 4,
             "name": "Terracotta warriors",
             "group": 3,
-            "val": 0
+            "val": 1
         },
         {
             "id": 5,
             "name": "Casa Battló",
             "group": 3,
-            "val": 0
+            "val": 1
         },
         {
             "id": 6,
             "name": "Space and Place",
             "group": 4,
-            "val": 0
+            "val": 1
         },
         {
             "id": 7,
             "name": "Yi-Fu Tuan",
             "group": 4,
-            "val": 0
+            "val": 1
         },
         {
             "id": 8,
             "name": "Place",
             "group": 4,
-            "val": 0
+            "val": 1
         },
         {
             "id": 9,
             "name": "Cultural Heritage",
             "group": 4,
-            "val": 0
+            "val": 1
         },
         {
             "id": 10,
             "name": "Virtual Museums",
             "group": 4,
-            "val": 0
+            "val": 1
         },
         {
             "id": 11,
             "name": "Space",
             "group": 4,
-            "val": 0
+            "val": 1
         },
         {
             "id": 12,
             "name": "VR gameworlds",
             "group": 4,
-            "val": 0
+            "val": 1
         },
         {
             "id": 13,
             "name": "VR conferencing",
             "group": 4,
-            "val": 0
+            "val": 1
         },
         {
             "id": 14,
             "name": "Google Maps Live View",
             "group": 4,
-            "val": 0
+            "val": 1
         },
         {
             "id": 15,
             "name": "AR tabletop games",
             "group": 4,
-            "val": 0
+            "val": 1
         }
     ],
     "links": [

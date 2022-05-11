@@ -4,7 +4,7 @@
             "id": 0,
             "group": 2,
             "name": "Definitions of presence",
-            "val": 0
+            "val": 2
         },
         {
             "id": 1,
@@ -35,37 +35,37 @@
             "id": 6,
             "name": "Virtual trip to Mars",
             "group": 3,
-            "val": 2
+            "val": 1
         },
         {
             "id": 7,
             "name": "Gameworlds",
             "group": 3,
-            "val": 3
+            "val": 1
         },
         {
             "id": 8,
             "name": "Van Gogh",
             "group": 4,
-            "val": 2
+            "val": 1
         },
         {
             "id": 9,
             "name": "Media history",
             "group": 5,
-            "val": 2
+            "val": 1
         },
         {
             "id": 10,
             "name": "Meta",
             "group": 6,
-            "val": 2
+            "val": 1
         },
         {
             "id": 11,
             "name": "Presence as absence",
             "group": 7,
-            "val": 2
+            "val": 1
         }
     ],
     "links": [
