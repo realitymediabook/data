@@ -1,0 +1,115 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "name": "WHAT ARE REALITY MEDIA",
+            "group": 0,
+            "level": 3,
+            "val": 1,
+            "fixed": 0
+        },
+        {
+            "id": 1,
+            "name": "Reality Media",
+            "group": 1,
+            "level": 2,
+            "val": 1.05,
+            "fixed": 0
+        },
+        {
+            "id": 2,
+            "name": "AR & VR as reality media",
+            "fixed": 0,
+            "group": 2,
+            "level": 1,
+            "val": 1.05
+        },
+        {
+            "id": 3,
+            "name": "film",
+            "group": 1,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 4,
+            "name": "laCiotat effect",
+            "group": 1,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 5,
+            "name": "television",
+            "group": 1,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 6,
+            "name": "media comparisons",
+            "group": 1,
+            "level": 2,
+            "val": 1
+        },
+        {
+            "id": 7,
+            "name": "Jaron Lanier",
+            "group": 2,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 8,
+            "name": "Oculus Quest",
+            "group": 2,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 9,
+            "name": "Milgram-Kishino continuum",
+            "group": 2,
+            "level": 1,
+            "val": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 2,
+            "target": 7
+        },
+        {
+            "source": 2,
+            "target": 8
+        },
+        {
+            "source": 2,
+            "target": 9
+        }
+    ]
+}

@@ -1,0 +1,233 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "name": "HISTORY",
+            "group": 1,
+            "level": 3,
+            "val": 1
+        },
+        {
+            "id": 1,
+            "name": "painting and photography (1400-1900)",
+            "group": 2,
+            "level": 2,
+            "val": 1.05
+        },
+        {
+            "id": 2,
+            "name": "linear perspective",
+            "group": 2,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 3,
+            "name": "trompe l'oeil",
+            "group": 2,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 4,
+            "name": "panorama",
+            "group": 2,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 5,
+            "name": "photography",
+            "group": 2,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 6,
+            "name": "stereoscope",
+            "group": 2,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 7,
+            "name": "zoetrope",
+            "group": 2,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 8,
+            "name": "television",
+            "group": 2,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 9,
+            "name": "era of film and tv (20th century)",
+            "group": 3,
+            "level": 2,
+            "val": 1.05
+        },
+        {
+            "id": 10,
+            "name": "film",
+            "group": 3,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 11,
+            "name": "skybox (videogames)",
+            "group": 3,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 12,
+            "name": "sensorama",
+            "group": 3,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 13,
+            "name": "sword of Damocles",
+            "group": 3,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 14,
+            "name": "immersive media (1960s to present)",
+            "group": 4,
+            "level": 2,
+            "val": 1.05
+        },
+        {
+            "id": 15,
+            "name": "Google street view",
+            "group": 4,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 16,
+            "name": "3D movies",
+            "group": 4,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 17,
+            "name": "tabletop AR",
+            "group": 4,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 18,
+            "name": "VR headsets",
+            "group": 4,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 19,
+            "name": "VR cave",
+            "group": 4,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 20,
+            "name": "immersive amusement rides",
+            "group": 4,
+            "level": 1,
+            "val": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 1,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 9,
+            "target": 10
+        },
+        {
+            "source": 8,
+            "target": 9
+        },
+        {
+            "source": 9,
+            "target": 11
+        },
+        {
+            "source": 9,
+            "target": 12
+        },
+        {
+            "source": 9,
+            "target": 13
+        },
+        {
+            "source": 0,
+            "target": 14
+        },
+        {
+            "source": 14,
+            "target": 15
+        },
+        {
+            "source": 14,
+            "target": 17
+        },
+        {
+            "source": 14,
+            "target": 16
+        },
+        {
+            "source": 14,
+            "target": 18
+        },
+        {
+            "source": 14,
+            "target": 19
+        },
+        {
+            "source": 14,
+            "target": 20
+        }
+    ]
+}
