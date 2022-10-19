@@ -1,0 +1,93 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "name": "FUTURES",
+            "group": 0,
+            "level": 3,
+            "val": 1,
+            "fixed": 0
+        },
+        {
+            "id": 1,
+            "name": "Probable",
+            "group": 1,
+            "level": 2,
+            "val": 1.05,
+            "fixed": 0
+        },
+        {
+            "id": 2,
+            "name": "Plausible",
+            "fixed": 0,
+            "group": 2,
+            "level": 1,
+            "val": 1.05
+        },
+        {
+            "id": 3,
+            "name": "Possible",
+            "group": 3,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 4,
+            "name": "Preferable",
+            "group": 4,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 5,
+            "name": "convergence of AR and VR",
+            "group": 1,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 6,
+            "name": "mirror worlds",
+            "group": 3,
+            "level": 1,
+            "val": 1
+        },
+        {
+            "id": 7,
+            "name": "metaverse",
+            "group": 3,
+            "level": 1,
+            "val": 1
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 3,
+            "target": 6
+        },
+        {
+            "source": 3,
+            "target": 7
+        }
+    ]
+}
